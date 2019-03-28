@@ -1,0 +1,9 @@
+
+.idea/workspace.xml
+*.pyc
+__pycache__/
+.DS_Store
+.idea/
+out.log
+*.exe
+.vscode/
