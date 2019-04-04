@@ -1,8 +1,8 @@
 # Find a missing number in an array
 
-new_array = [1,2,3,5]
+new_array = [1,2,3,5,6,7,8,9,10]
 
-total_array = len(new_array)
+total_array_ = len(new_array)
 print("Total numbers in array is ", total_array)
 
 total = (total_array+1) * (total_array+2)/2 
