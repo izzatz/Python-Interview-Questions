@@ -6,5 +6,5 @@ temp = a
 a = b
 b = temp
 
-print (a)
-print (b)
+print ("New value for a:", a)
+print ("New value for b:", b)
