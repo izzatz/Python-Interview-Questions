@@ -5,6 +5,7 @@ All questions is not in order of the difficulty level. I didn't sort in any way.
 
 
 1. Find a missing number in an array .The question is straight forward. Find a missing number in an array which can be solved using simple arithmetic formula.
+
 https://github.com/izzatz/Python-Interview-Questions/blob/master/find_missing_number_array.py
 
 2. Find one or more missing number in an array. But the pre defined array list must be in sequence.
